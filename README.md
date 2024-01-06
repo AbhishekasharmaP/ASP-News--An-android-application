@@ -4,4 +4,6 @@ ASP News offers a unified and organized approach, gathering news articles from v
 
 -Android studio version used to develop is "Flemmingo"
 
--Copy and paste the given files inside a folder and upload it to the android studio
+-Create an empty activity and take down all the files and replicate them. Files such as '.java' and '.xml' etc.
+
+-Make sure to add dependecies given in AndroidManifest.xml file
